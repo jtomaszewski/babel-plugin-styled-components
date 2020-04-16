@@ -1,8 +1,8 @@
 {
-  "version": "1.10.7",
-  "name": "babel-plugin-styled-components",
+  "version": "1.10.8-beta.0",
+  "name": "@jtomaszewski/babel-plugin-styled-components",
   "description": "Improve the debugging experience and add server-side rendering support to styled-components",
-  "repository": "styled-components/babel-plugin-styled-components",
+  "repository": "jtomaszewski/babel-plugin-styled-components",
   "contributors": [
     "Vladimir Danchenkov <vladimir.danchenkov@gmail.com>",
     "Max Stoiber <contact@mxstbr.com>",
